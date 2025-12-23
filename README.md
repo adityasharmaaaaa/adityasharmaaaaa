@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Aditya Sharma! 👋
 
-<!--
-**adityasharmaaaaa/adityasharmaaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 AI & Python Developer
+I'm passionate about Artificial Intelligence, Reinforcement Learning, and building smart assistants.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **PanditAI** and **WikiRace-RL**
+- ♟️ I love combining logic and code (check out my **Chessly** project!)
+- 🐍 My main stack: **Python, Jupyter, TensorFlow/PyTorch**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 My GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityasharmaaaaa&show_icons=true&theme=tokyonight" alt="Aditya's Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasharmaaaaa&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
+</p>
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=adityasharmaaaaa&label=Profile%20Views&color=12&icon=5&pretty=true)](https://github.com/adityasharmaaaaa)
