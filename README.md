@@ -3,8 +3,7 @@
 ### 👨‍💻 AI & Python Developer
 I'm passionate about Artificial Intelligence, Reinforcement Learning, and building smart assistants.
 
-- 🔭 I’m currently working on **PanditAI** and **WikiRace-RL**
-- ♟️ I love combining logic and code (check out my **Chessly** project!)
+- 🔭 I’m currently working on **Spatiotemporal-Action-Recognition** and **WikiRace-RL**
 - 🐍 My main stack: **Python, Jupyter, TensorFlow/PyTorch**
 
 ---
