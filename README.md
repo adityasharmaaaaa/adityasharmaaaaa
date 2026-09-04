@@ -18,7 +18,7 @@ I build high-performance backend systems, autonomous AI agents, and scalable dat
 *   Achieved Global Rank 168/28k+ in CodeChef Starters and Rank 195/30k+ in LeetCode Biweekly
 
 **Open Source Contributor**
-*   Merged a fix into [PyTorch core](https://github.com/pytorch/pytorch/pull/195546) — root-caused a flaky Inductor/Triton CI test to an incorrect kernel launch grid that left GPU memory uninitialized, then landed the fix; reviewed and approved by TorchInductor lead Jason Ansel
+*   Merged a fix into [PyTorch core]([https://github.com/pytorch/pytorch/pull/195546](https://github.com/pytorch/pytorch/commit/a8f05b4c4f33a94860f139ebb6b46af0ae8cc2f1)) — root-caused a flaky Inductor/Triton CI test to an incorrect kernel launch grid that left GPU memory uninitialized, then landed the fix; reviewed and approved by TorchInductor lead Jason Ansel
 *   Fixed a bug in LeetGPU's JAX compiler, resolving an issue in the kernel-compilation path for one of the platform's GPU-programming challenge problems
 ### Interests
 Distributed Systems · Multi-Agent AI · Backend Engineering · GPU Computing · Competitive Programming · High-Performance Computing
