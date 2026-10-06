@@ -1,24 +1,36 @@
 # Hi, I'm Aditya Sharma
-Final-year Engineering student at IIIT Bhopal.  
-I build high-performance backend systems, autonomous AI agents, and scalable data pipelines with a focus on distributed architectures, GPU-accelerated computing, algorithmic optimization, and LLM workflows.
+
+Final-year Engineering student at IIIT Bhopal.
+I build high-performance ML and backend systems with a focus on GPU computing, distributed architectures, LLM workflows, and low-level optimization.
+
 ### What I've Built
-*   Autonomous multi-agent CI/CD security auditors using LangGraph and MCP
-*   Event-driven predictive engines and high-frequency streaming pipelines
-*   Self-correcting AI systems for codebase refactoring and UI generation
-*   LLM evaluation frameworks and benchmarking suites for coding agents
-*   Robust backend APIs, asynchronous task queues, and microservices
-*   AI-curated technical data ingestion and classification platforms
+
+* **cracked.c** — ML library built from scratch in pure C and CUDA
+* CUDA-optimized RAG reranking pipeline with custom fused GPU kernels
+* Corrective RAG systems with self-evaluating retrieval and fallback workflows
+* Autonomous multi-agent systems using LangGraph and MCP
+* LLM evaluation and benchmarking infrastructure for coding agents
+* High-performance backend APIs, asynchronous pipelines, and data systems
+
 ### Tech Stack
-*   **Languages & Frameworks** Python · C++ · C · CUDA · Java · FastAPI · Triton
-*   **Databases & Infrastructure** PostgreSQL · Redis · Docker · Celery · GitHub Actions
-*   **AI & Data Science** LangGraph · PyTorch · Keras · Model Context Protocol (MCP) · ChromaDB · Qdrant · RAGAS · DeepEval · NumPy
+
+* **Languages & Systems** C · C++ · CUDA · Python · Java · SQL · Linux
+* **ML & GPU** PyTorch · Triton · HuggingFace · vLLM · Nsight Compute/Systems
+* **AI & Data** LangGraph · MCP · RAGAS · DeepEval · ChromaDB · Qdrant
+* **Infrastructure** FastAPI · PostgreSQL · Redis · Celery · Docker · GitHub Actions
+
 ### Achievements
-**Competitive Programmer @ Global Platforms**
-*   Ranked LeetCode Guardian (Top 0.09% globally), Codeforces Specialist, and CodeChef 4-Star
-*   Achieved Global Rank 168/28k+ in CodeChef Starters and Rank 195/30k+ in LeetCode Biweekly
+
+**Competitive Programmer**
+
+* LeetCode Guardian (Top 0.08% globally), Codeforces Specialist, CodeChef 4-Star
+* Global Rank 168/28k+ in CodeChef Starters and Rank 195/30k+ in LeetCode Biweekly
 
 **Open Source Contributor**
-*   Merged a fix into [PyTorch core](https://github.com/pytorch/pytorch/commit/a8f05b4c4f33a94860f139ebb6b46af0ae8cc2f1) — root-caused a flaky Inductor/Triton CI test to an incorrect kernel launch grid that left GPU memory uninitialized, then landed the fix; reviewed and approved by TorchInductor lead Jason Ansel
-*   Fixed a bug in LeetGPU's JAX compiler, resolving an issue in the kernel-compilation path for one of the platform's GPU-programming challenge problems
+
+* Merged a fix into [PyTorch](https://github.com/pytorch/pytorch/commit/a8f05b4c4f33a94860f139ebb6b46af0ae8cc2f1) for an incorrect Triton kernel launch grid causing flaky GPU validation
+* Fixed a bug in LeetGPU's JAX compiler affecting GPU kernel compilation
+
 ### Interests
-Distributed Systems · Multi-Agent AI · Backend Engineering · GPU Computing · Competitive Programming · High-Performance Computing
+
+ML Systems · GPU Computing · Distributed Systems · High-Performance Computing · LLM Infrastructure · Backend Engineering · Competitive Programming
