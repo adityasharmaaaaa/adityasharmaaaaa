@@ -56,15 +56,11 @@ me: this should take 20 min
 
 ## stack
 
-**languages:** C, C++, Python, SQL, Bash
-
-**systems:** Linux, Git, Docker, PostgreSQL, Redis
-
-**performance / GPU:** CUDA, PyTorch profiling, kernel optimization
-
-**ml:** Transformers, RAG, RL, LLM post-training
-
-**learning next:** computer architecture, distributed training, Kafka, monitoring, RLHF, and the math behind transformers
+- **languages:** C, C++, Python, SQL, Bash
+- **systems:** Linux, Git, Docker, PostgreSQL, Redis
+- **performance / GPU:** CUDA, PyTorch profiling, kernel optimization
+- **ml:** Transformers, RAG, RL, LLM post-training
+- **learning next:** computer architecture, distributed training, Kafka, monitoring, RLHF, and the math behind transformers
 
 ## outside the terminal
 
