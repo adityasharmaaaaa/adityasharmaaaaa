@@ -7,7 +7,6 @@ i like knowing what's actually happening under the hood. if something works, i w
 **right now:**
 
 - writing a lot of C/C++ and getting more comfortable with low-level stuff
-- will be interning at **PlusWealth Capital Management** from Jan 2027
 - poking around linux, kafka, computer networks, and monitoring
 - writing CUDA kernels, willingly, ngl
 - reading about computer architecture, distributed systems, and how frontier ai really work
